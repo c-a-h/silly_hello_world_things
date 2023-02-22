@@ -23,6 +23,7 @@ void reverse_string(string& input_string) {
     }
 }
 
+// A function to print strings. We may want to have formattting options or reuse this elsewhere in the future.
 void print_string(string& input_string) {
     cout << input_string << endl;
 }
